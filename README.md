@@ -1,7 +1,7 @@
 # README - Projeto Java
 
 <p align="center">
-  <i>Unidade 1 - Tarefa 3 | Capacita i-rede</i>
+  <i>Unidade 1 - Tarefa 1 | Capacita i-rede</i>
 </p>
 
 ---
